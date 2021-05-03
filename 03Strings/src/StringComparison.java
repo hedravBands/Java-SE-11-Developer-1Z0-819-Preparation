@@ -25,7 +25,7 @@ public class StringComparison {
         Object secondObject = secondString; // Line 25
         CharSequence secondSequence = secondString; // Line 26
 
-        //  == operand
+         //  == operand
         TestEqualsOperand(firstString, secondString);
 
         //  public boolean equals(Object anObject)
